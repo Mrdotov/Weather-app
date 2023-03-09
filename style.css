@@ -76,6 +76,7 @@ transition: 0.48s ease;
 }
 .weather{
 	text-align: center;
+	
 }
 .weather-box img{
 	width: 60%;
@@ -168,7 +169,7 @@ margin-top: 12px;
 		opacity: 0;
 	}
 
-	.fade-in{
+	.fadeIn{
 		animation:0.5 fadeIn forwards;
 	animation-delay:0.5;
 	}
